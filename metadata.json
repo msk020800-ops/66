@@ -1,0 +1,6 @@
+{
+  "name": "한가위 추석 인사카드",
+  "description": "50~70대 중장년층도 스마트폰에서 쉽고 간편하게 맞춤형 추석 인사카드를 제작하고 이미지로 저장할 수 있는 AI 추석 카드 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
